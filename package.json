@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "discord-module": "^2.0.0",
+    "discord-module": "^2.0.16",
     "fortnite": "^4.3.2"
   }
 }
